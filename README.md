@@ -27,4 +27,7 @@ Le script peut convertir 4 unités de vitesses, le **m/s**, le **Km/h**, le **mp
 ## Energies
 Il y a 4 unités d'énergies qui sont convertibles, le **Joules**, la **calories**, le **Watt-heure**, et le **Kilowatt-heures**
 
-`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
+
+# Licence
+ce script est sous licence MIT, si vous voulez FORK le projet, l'adapter pour vous ou autre, avec plaisir.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
