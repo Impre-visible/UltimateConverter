@@ -32,5 +32,5 @@ Il y a 4 unités d'énergies qui sont convertibles, le **Joules**, la **calories
 
 
 # Licence
-ce script est sous licence MIT, si vous voulez FORK le projet, l'adapter pour vous ou autre, avec plaisir.
+Ce script est sous licence MIT, si vous voulez FORK le projet, l'adapter pour vous ou autre, avec plaisir.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
