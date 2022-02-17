@@ -2,6 +2,9 @@
 
 **UltimateConverter** est un convertisseur d'unités en python. Équipé d'une interface **CLI** travaillé, coloré, et personnalisé en fonction de votre **OS**.
 
+![image](https://user-images.githubusercontent.com/69050895/154533196-45907e85-fe39-450c-b031-bbe2a5191e9f.png)
+
+
 # S'en servir
 
 Pour utiliser le script, téléchargez une release, accessible [ici](https://github.com/Impre-visible/UltimateConverter/releases) ! Une fois installez, ouvrez un terminal, allez la ou vous avez extrait le zip, et faites la commande ```pip install -r requirements.txt```. Une fois fais, lancez app.py
